@@ -8,7 +8,7 @@
 
 **Fecha (Creación):** 08/11/23
 
-**Descripción:**
+**Descripción:** En este repositorio, se almacena una aplicación en Flask que posibilita la autenticación de usuarios y la presentación de una página de bienvenida. Durante la elaboración de este proyecto, se ha empleado la técnica de herencia de plantillas vía Jinja y se han implementado los métodos GET y POST.
 
 ---
 
